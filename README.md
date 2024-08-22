@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vahitkaplanoglu
 - 👀 I’m interested in Java EE. Spring Framework.
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Java Projects
 - 📫 How to reach me: vahitkaplanoglu@gmail.com
 
